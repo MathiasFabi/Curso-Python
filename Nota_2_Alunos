@@ -1,0 +1,11 @@
+# Apresentar a nota de 2 alunos
+aluno1 = input('Digite o nome do aluno 1 : ')
+aluno1nota1 = float(input('Digite a primeira nota do aluno 1 : '))
+aluno1nota2 = float(input('Digite a segunda nota do aluno 1 : '))
+aluno1nota3 = float(input('Digite a terceira nota do aluno 1: '))
+aluno2 = input('Digite o nome do aluno 2 ')
+aluno2nota1 = float(input('Digite a primeira nota do aluno 2 : '))
+aluno2nota2 = float(input('Digite a segunda nota do aluno 2 : '))
+aluno2nota3 = float(input('Digite a terceira nota do aluno 2: '))
+lista = [aluno1nota1,aluno1nota2,aluno1nota3,aluno2nota1,aluno2nota2,aluno2nota3]
+print(lista)
