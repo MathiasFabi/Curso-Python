@@ -1,3 +1,4 @@
+#Nome_Idade
 nome = input('Digite o seu nome ')
 idade = int(input('Digite a sua idade '))
 idade2 = idade + 10
